@@ -1,0 +1,22 @@
+$colors: (
+
+  primary:    #387ef5,
+  secondary:  #32db64,
+  danger:     #f53d3d,
+  light:      #f4f4f4,
+  dark:       #222,
+
+);
+
+
+
+// Ionic Sass
+// ---------------------------------
+@import "ionic";
+
+
+
+// Import your Sass files here
+// ---------------------------------
+@import "employee-list/employee-list";
+@import "employee-details/employee-details";
